@@ -118,7 +118,7 @@ export function WelcomeBanner() {
   return (
     <WelcomeWrapper>
       <WelcomeContent>
-        <h1>Welcome to Gamba v2 👋</h1>
+        <h1>Welcome to Gamba Dev 👋</h1>
         <p>A fair, simple and decentralized casino on Solana.</p>
       </WelcomeContent>
       <ButtonGroup>
@@ -128,7 +128,7 @@ export function WelcomeBanner() {
         <ActionButton onClick={openLink('https://v2.gamba.so/')}>
           🚀 Add Liquidity
         </ActionButton>
-        <ActionButton onClick={openLink('https://discord.gg/HSTtFFwR')}>
+        <ActionButton onClick={openLink('https://discord.gg/BZVYHXfQNj')}>
           💬 Discord
         </ActionButton>
       </ButtonGroup>
